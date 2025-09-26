@@ -22,6 +22,6 @@ data = {
     "message": "https://drive.google.com/file/d/1nSwlTRGPyJpPhi2b6RBbjWWlREHy1JF4/view?usp=drive_link"
 }
 
-db.child("dATA").push(data)
+db.child("dATAls").push(data)
 
 print("✅ Data sent successfully")
